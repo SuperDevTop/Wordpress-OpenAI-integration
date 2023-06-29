@@ -1,0 +1,35 @@
+✨✨ Description.... ✨✨
+We would like to work with someone who has experience and strong knowledge of OpenAI API and coding. We would like to do the following functionality in a Wordpress backend. We want to be able to add RSS feeds that will pull in content directly in the Wordpress backend as new post drafts. In addition, this content will automatically go through an OpenAI API request and the output of that is displayed in a separate duplicate text field next to the original text from the RSS (so you can compare the two). This text field is also what will be displayed in the final post once published. Each RSS feed will have a different prompt, so there should be a way to edit the prompt for each RSS feed, and also to add/delete RSS feeds that pull content. If you have any questions, just let me know. Please only apply if you have experience working with the OpenAI API, and you understand its best practice.
+
+✨ Chat History ✨
+So I have created a blank Wordpress installation. We will just use to produce and manage content and later push it via API to our live headless website > brusselstimes.com
+
+Here is the Wordpress login:
+
+https://ab7.wpengine.com
+UN: o.apelblat@brusselstimes.com  //
+PW: abS#7xTo&ww7No$7  //
+
+
+Here it is hosted:
+
+https://my.wpengine.com/
+UN: omry101@hotmail.com
+PW: abS#7xTo&ww7No$7  //
+
+SFTP//
+ab7.sftp.wpengine.com//
+ab7-dmitry//
+dmitry0001 //
+
+
+To start, for testing, we can use the following 2 feeds and use this prompt: "Please rewrite this press release into a news article."
+
+1) https://www.europarl.europa.eu/rss/doc/press-releases/en.xml
+2) https://ec.europa.eu/commission/presscorner/api/rss?latestnews&language=en&ts=1687973685721&documenttype=292,850,3,853,851,291,1,852,1021,4,7&pagesize=10
+
+Remember we would like to finish this before the weekend, you think it is possible?)
+
+Later, if goes well, I would like to develop some other similar integrations and manipulation of content with OpenAI API
+
+
