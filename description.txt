@@ -4,6 +4,9 @@ We would like to work with someone who has experience and strong knowledge of Op
 ✨ Chat History ✨
 So I have created a blank Wordpress installation. We will just use to produce and manage content and later push it via API to our live headless website > brusselstimes.com
 
+	echo '<textarea name="ai_generate" rows="10" cols="80">' . esc_textarea($content) . '</textarea></div>';
+
+
 Here is the Wordpress login:
 
 https://ab7.wpengine.com
